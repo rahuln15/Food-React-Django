@@ -33,4 +33,19 @@
   .recipe:hover img {
     transform: scale(1.1); /* Scale up image on hover */
   }
-  
+  .searching-recipe
+  {
+    margin-bottom: 20px;
+    text-align: center;
+
+  }
+
+  .search-input
+  {
+    padding: 0.6%;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 16px;
+    box-shadow: 1px 3px 5px 1px black;
+  }
